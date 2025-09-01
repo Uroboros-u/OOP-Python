@@ -1,4 +1,4 @@
-"""9-4. Number Served: Start with your program from Exercise 9-1 (page 162).
+"""9-4(HW). Number Served: Start with your program from Exercise 9-1 (page 162).
 Add an attribute called number_served with a default value of 0. Create an
 instance called restaurant from this class. Print the number of customers the
 restaurant has served, and then change this value and print it again.
@@ -19,7 +19,7 @@ properly, and then call reset_login_attempts(). Print login_attempts again to
 make sure it was reset to 0."""
 
 
-# 9-4
+# 9-4(HW)
 class Restaurant:
 
     def __init__(self, restaurant_name, cuisine_type):
